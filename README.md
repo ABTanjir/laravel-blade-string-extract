@@ -20,6 +20,6 @@ Well... It happened to me and tried to minimize the effort a little bit and thou
 5. You will get all your strings to `strings.blade.php`
 
 # Cons:
-You should underscored when ever you use a string  ```{{ __('Your String In Blade File') }}```
+You should use underscores function properly in laravel  ```{{ __('Your String In Blade File') }}```
 otherwise it can not extract the strings
 
